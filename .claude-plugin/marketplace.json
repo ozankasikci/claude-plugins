@@ -1,0 +1,39 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ozankasikci-plugins",
+  "version": "1.0.0",
+  "description": "Ozan's collection of Claude Code plugins for autonomous development workflows",
+  "owner": {
+    "name": "Ozan Kaşıkçı",
+    "email": "ozan@kasikci.io"
+  },
+  "plugins": [
+    {
+      "name": "autogoals",
+      "description": "Autonomous long-term goal execution system with interactive planning, TDD implementation, and automated verification. Define multiple interconnected goals in YAML and let Claude Code work autonomously for hours.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Ozan Kaşıkçı",
+        "email": "ozan@kasikci.io"
+      },
+      "source": {
+        "source": "github",
+        "repo": "ozankasikci/autogoals"
+      },
+      "homepage": "https://github.com/ozankasikci/autogoals",
+      "repository": "https://github.com/ozankasikci/autogoals",
+      "license": "MIT",
+      "keywords": [
+        "autonomous",
+        "goals",
+        "automation",
+        "tdd",
+        "workflows",
+        "long-running",
+        "planning",
+        "verification"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
