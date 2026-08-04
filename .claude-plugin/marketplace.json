@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "ozankasikci-plugins",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Ozan's collection of Claude Code plugins for autonomous development workflows",
   "owner": {
     "name": "Ozan Kaşıkçı",
@@ -38,7 +38,7 @@
     {
       "name": "sol",
       "description": "Two frontier models, one job each. Claude plans and reviews; GPT-5.6 Sol writes the code via Codex CLI. The model that wrote the diff never grades it.",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "Ozan Kaşıkçı",
         "email": "ozan@kasikci.io"
